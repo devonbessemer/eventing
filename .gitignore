@@ -1,0 +1,15 @@
+# Build Folders (you can edit this if you have some special build folder, 
+# but be aware that these will be ignored as well, even if they are within the project folder)
+bin/
+obj/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# IDE files
+.idea/
+.vscode/
